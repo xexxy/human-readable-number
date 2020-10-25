@@ -1,5 +1,4 @@
 module.exports = function toReadable(number) {
-
     const numbers = number.toString().split('');
     let string;
 
